@@ -1,0 +1,27 @@
+html body header {
+  text-align: center;
+  text-transform: uppercase;
+  background-color: #5bc0de;
+  color: white;
+  height: 60px;
+  font-size: xx-large; }
+html body .container {
+  margin-top: 50px; }
+  html body .container .add-btn {
+    margin: 0 auto;
+    width: 110px;
+    margin-top: 20px; }
+  html body .container .list-content {
+    margin-top: 50px;
+    text-align: center; }
+    html body .container .list-content h3 {
+      color: #5bc0de; }
+    html body .container .list-content .header-row {
+      background-color: black;
+      color: white;
+      margin-bottom: 15px; }
+    html body .container .list-content .item-row {
+      background-color: aliceblue;
+      margin-bottom: 10px; }
+
+/*# sourceMappingURL=style.css.map */
