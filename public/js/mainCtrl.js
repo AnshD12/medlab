@@ -1,4 +1,4 @@
-app.controller('mainCtrl', ['$scope','mainSrv' , function($scope,mainSrv){
+angular.module('medlab',[]).controller('mainCtrl', ['$scope','mainSrv' , function($scope,mainSrv){
 	var refreshExpenses = function(){
 		console.log($scope.expence);
 		mainSrv.getExpenses().then(function(res){

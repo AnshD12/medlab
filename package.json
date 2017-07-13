@@ -15,5 +15,12 @@
     "body-parser": "^1.17.2",
     "express": "^4.15.3",
     "mongodb": "^2.2.30"
+  },
+  "devDependencies": {
+    "angular-mocks": "^1.6.5",
+    "jasmine-core": "^2.6.4",
+    "karma": "^1.7.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.0"
   }
 }

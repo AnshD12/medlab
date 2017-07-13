@@ -1,2 +1,2 @@
-var app = angular.module('medlab',['ui.router']);
+var app = angular.module('medlab',[]);
 
